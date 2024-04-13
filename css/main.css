@@ -7,7 +7,7 @@
     --clr-main: #0000009f;
     --clr-main-light: #785ce9;
     --clr-white: #ececec;
-    --clr-gray: #4da8acd0;
+    --clr-gray: hsl(183, 48%, 32%);
     --clr-red: #961818;
 }
 #bg {
