@@ -2,7 +2,7 @@
     {
         "id": "abrigo-01",
         "titulo": "Abrigo Challenger",
-        "imagen": "./img/abrigos/Lol1.jpg",
+        "imagen": "./img/abrigos/01.jpg",
         "categoria": {
             "nombre": "Abrigos",
             "id": "abrigos"
